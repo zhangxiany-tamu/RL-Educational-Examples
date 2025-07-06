@@ -1,7 +1,7 @@
 # Tic-Tac-Toe Q-Learning
 
 ## Overview
-This example demonstrates Q-Learning fundamentals using the classic game of tic-tac-toe. Perfect for understanding basic reinforcement learning concepts.
+This example demonstrates Q-Learning fundamentals using the classic game of tic-tac-toe to understand basic reinforcement learning concepts.
 
 ## Learning Objectives
 - Understand Q-Learning algorithm and Q-table structure
@@ -60,7 +60,7 @@ The Python script will:
 - Strategic knowledge: Learns center/corner preferences, blocking, winning moves
 
 ## Educational Value
-This example provides a concrete, visual introduction to reinforcement learning that's easy to understand and experiment with. The game rules are simple, but the learning process demonstrates all key RL concepts.
+This example provides a concrete introduction to reinforcement learning with simple game rules that demonstrate key RL concepts.
 
 ## Extensions to Try
 - Train against different opponents (minimax, human players)
